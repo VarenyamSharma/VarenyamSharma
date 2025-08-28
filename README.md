@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Varenyam Sharma<br><br>👀 I’m interested in web development, cloud computing, and innovative app solutions.<br><br>🌱 I’m currently learning the ServiceNow tool and exploring Next.js for web development.<br><br>💞️ I’m looking to collaborate on open-source projects related to web development, cloud computing, and improving user experience in digital applications.<br><br>📫 How to reach me: varenyam2004@gmail.com
+👋 Hi, I’m Varenyam Sharma<br><br>👀 I’m interested in web development, cloud computing, and innovative app solutions.<br><br>💞️ I’m looking to collaborate on open-source projects related to web development, cloud computing, and improving user experience in digital applications.<br><br>📫 How to reach me: varenyam2004@gmail.com
 
 
 ## 🌐 Socials:
